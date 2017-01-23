@@ -1,0 +1,5 @@
+C:\Users\davem\RiderProjects\StringMaipulation\StringMaipulation\bin\Debug\StringMaipulation.exe
+C:\Users\davem\RiderProjects\StringMaipulation\StringMaipulation\bin\Debug\StringMaipulation.pdb
+C:\Users\davem\RiderProjects\StringMaipulation\StringMaipulation\obj\Debug\StringMaipulation.csprojResolveAssemblyReference.cache
+C:\Users\davem\RiderProjects\StringMaipulation\StringMaipulation\obj\Debug\StringMaipulation.exe
+C:\Users\davem\RiderProjects\StringMaipulation\StringMaipulation\obj\Debug\StringMaipulation.pdb
